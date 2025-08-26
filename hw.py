@@ -1,6 +1,6 @@
 import string
 import time
-text = 'Hello world, Im gay!'
+text = 'Hello world'
 temp = ''
 
 for ch in text:
